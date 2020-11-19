@@ -1829,7 +1829,7 @@ New Mexico,Union,4059,35059
 New Mexico,Valencia,76688,35061
 New York,Albany,305506,36001
 New York,Allegany,46091,36003
-New York,Bronx,1418207,0
+New York,Bronx,0,0
 New York,Broome,190488,36007
 New York,Cattaraugus,76117,36009
 New York,Cayuga,76576,36011
@@ -1850,7 +1850,7 @@ New York,Greene,47188,36039
 New York,Hamilton,4416,36041
 New York,Herkimer,61319,36043
 New York,Jefferson,109834,36045
-New York,Kings,2559903,0
+New York,Kings,0,0
 New York,Lewis,26296,36049
 New York,Livingston,62914,36051
 New York,Madison,70941,36053
@@ -1867,9 +1867,9 @@ New York,Orleans,40352,36073
 New York,Oswego,117124,36075
 New York,Otsego,59493,36077
 New York,Putnam,98320,36079
-New York,Queens,2253858,0
+New York,Queens,0,0
 New York,Rensselaer,158714,36083
-New York,Richmond,476143,0
+New York,Richmond,0,0
 New York,Rockland,325789,36087
 New York,St Lawrence,107740,36089
 New York,Saratoga,229863,36091
